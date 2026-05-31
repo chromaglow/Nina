@@ -28,10 +28,6 @@ const siteConfig: SiteConfig = {
             text: 'Journal',
             href: '/blog'
         },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
     ],
     footerNavLinks: [
         {

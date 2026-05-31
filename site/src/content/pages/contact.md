@@ -1,14 +1,17 @@
 ---
-title: Get in touch
+title: Get in Touch
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Contact Nina
+  description: Reach out to Nina for commissions, prints, or just to say hello.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+I'd love to hear from you — whether you're interested in a piece, want to talk about a commission, or just want to connect.
 
 _Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+[your@email.com](mailto:your@email.com)
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+_Instagram:_
+[@nintron](https://www.instagram.com/nintron)
+
+_Facebook:_
+[facebook.com/nintron](https://www.facebook.com/nintron)
