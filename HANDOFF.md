@@ -138,3 +138,33 @@ Nina/
 ├── socials.txt                 # Nina's social links
 └── HANDOFF.md                  # This document
 ```
+
+---
+
+## Nina's To-Do — Taking Full Ownership
+
+When you're ready to own your site completely and save money, here's what to do. None of this is urgent — the site works fine as-is.
+
+### 1. Transfer your domain off GoDaddy (saves ~$10/yr)
+
+Your domain **nintron.com** expires December 11, 2026. GoDaddy charges ~$20/yr to renew. Cloudflare charges ~$10/yr (no markup, ever).
+
+To transfer to Cloudflare:
+1. Create a free account at [cloudflare.com](https://cloudflare.com)
+2. Go to **Domain Registration** → **Transfer Domains**
+3. Enter `nintron.com`
+4. Back in GoDaddy: turn off auto-renew, turn off domain lock, get the transfer authorization code (EPP code)
+5. Enter the EPP code in Cloudflare and complete the transfer (~$10, adds one year)
+6. Transfer takes 5–7 days
+
+### 2. Create a free GitHub account
+
+Go to [github.com](https://github.com) and create a free account. Let your developer know your username and they can transfer the site code to your account — then the whole project is truly yours.
+
+### 3. Point your domain to your site
+
+Once you have a GitHub account and Netlify is set up, update two DNS records in GoDaddy (or Cloudflare if you transferred) to point `nintron.com` at Netlify. Your developer can do this in about 5 minutes with your login.
+
+---
+
+*None of this needs to happen right away. Your site is live and working. Do these steps when it feels right.*
