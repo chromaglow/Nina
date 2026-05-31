@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Color Swatches</title>
+<style>
+  body { background: #111; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; font-family: sans-serif; gap: 60px; }
+  .swatch { text-align: center; }
+  .block { width: 200px; height: 200px; border-radius: 12px; margin-bottom: 16px; }
+  .label { color: #fff; font-size: 1.1rem; font-weight: bold; }
+  .hex { color: #aaa; font-size: 0.9rem; margin-top: 4px; }
+  .teal .block { background: #4ECDC4; }
+  .coral .block { background: #E8855A; }
+</style>
+</head>
+<body>
+  <div class="swatch teal">
+    <div class="block"></div>
+    <div class="label">Teal</div>
+    <div class="hex">#4ECDC4</div>
+  </div>
+  <div class="swatch coral">
+    <div class="block"></div>
+    <div class="label">Coral</div>
+    <div class="hex">#E8855A</div>
+  </div>
+</body>
+</html>
