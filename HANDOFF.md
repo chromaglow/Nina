@@ -1,6 +1,6 @@
 # Nina — Project Handoff Document
-**Date:** May 31, 2026  
-**Status:** Phase 1 complete — live preview deployed, CMS not yet configured
+**Date:** June 1, 2026  
+**Status:** Phase 2 complete — site live at nintron.com, CMS configured and ready
 
 ---
 
@@ -13,7 +13,10 @@ A personal artist portfolio site for Nina, built on the following stack:
 - **Content:** Markdown files in `site/src/content/`
 - **Hosting:** Cloudflare Pages (auto-deploys on every push to `master`)
 - **Repo:** [github.com/chromaglow/Nina](https://github.com/chromaglow/Nina)
-- **Live URL:** nina-4dz.pages.dev (custom domain `nina.recklesspeach.com` optional)
+- **Live URL:** [nintron.com](https://nintron.com)
+- **CMS:** [nintron.com/admin](https://nintron.com/admin)
+- **Netlify project:** deluxe-puffpuff-7d0d79.netlify.app
+- **Cloudflare Pages (preview):** nina-4dz.pages.dev
 
 ---
 
