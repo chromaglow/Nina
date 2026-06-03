@@ -21,18 +21,6 @@ const { showHeader = true, ...head } = Astro.props;
         </script>
         <ClientRouter />
         <script is:inline src="/theme-toggle.js"></script>
-        <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        <script is:inline>
-            if (window.netlifyIdentity) {
-                window.netlifyIdentity.on('init', function(user) {
-                    if (!user) {
-                        window.netlifyIdentity.on('login', function() {
-                            document.location.href = '/admin/';
-                        });
-                    }
-                });
-            }
-        </script>
     </head>
     <body class="bg-main text-main">
         <div class="flex min-h-screen flex-col px-4 md:px-8">

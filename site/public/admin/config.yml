@@ -1,6 +1,22 @@
+# Use DecapBridge PKCE auth
 backend:
   name: git-gateway
+  repo: chromaglow/Nina
   branch: master
+  auth_type: pkce
+  base_url: https://auth.decapbridge.com
+  auth_endpoint: /sites/6ccf8a10-ea7c-400d-9832-78f137623315/pkce
+  auth_token_endpoint: /sites/6ccf8a10-ea7c-400d-9832-78f137623315/token
+  gateway_url: https://gateway.decapbridge.com
+  commit_messages:
+    create: Create {{collection}} "{{slug}}" - {{author-name}} <{{author-login}}> via DecapBridge
+    update: Update {{collection}} "{{slug}}" - {{author-name}} <{{author-login}}> via DecapBridge
+    delete: Delete {{collection}} "{{slug}}" - {{author-name}} <{{author-login}}> via DecapBridge
+    uploadMedia: Upload "{{path}}" - {{author-name}} <{{author-login}}> via DecapBridge
+    deleteMedia: Delete "{{path}}" - {{author-name}} <{{author-login}}> via DecapBridge
+
+logo_url: https://decapbridge.com/decapcms-with-bridge.svg
+site_url: https://nintron.com
 
 media_folder: src/assets/images/art
 public_folder: ../../assets/images/art
