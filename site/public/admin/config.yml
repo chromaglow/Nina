@@ -18,13 +18,13 @@ backend:
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 site_url: https://nintron.com
 
-media_folder: src/assets/images/art
+media_folder: site/src/assets/images/art
 public_folder: ../../assets/images/art
 
 collections:
   - name: "projects"
     label: "Gallery"
-    folder: "src/content/projects"
+    folder: "site/src/content/projects"
     create: true
     slug: "{{slug}}"
     fields:
@@ -49,7 +49,7 @@ collections:
 
   - name: "blog"
     label: "Journal"
-    folder: "src/content/blog"
+    folder: "site/src/content/blog"
     create: true
     slug: "{{slug}}"
     fields:
@@ -62,7 +62,7 @@ collections:
 
   - name: "pages"
     label: "Pages"
-    folder: "src/content/pages"
+    folder: "site/src/content/pages"
     create: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
