@@ -26,16 +26,17 @@ Your dashboard is where you manage everything — adding paintings, writing post
 
 **To log in:**
 1. Go to **[nintron.com/admin](https://nintron.com/admin)**
-2. Click **Login with Netlify Identity**
-3. Enter your email and password
+2. Click the login button
+3. You'll be taken to GitHub to authorize — click **Authorize**
+4. You'll be brought straight into your dashboard
 
-That's it. You'll land on a page that looks like a simple content editor with two sections: **Gallery** and **Journal**.
+That's it. No password to remember, no invite email. It uses your GitHub account to verify who you are.
 
-**First time logging in:**
-You received an email invite from Netlify. Click the link in that email first — it lets you set your password. After that, you can log in any time at nintron.com/admin.
+**You will need a free GitHub account to log in.**
+If you don't have one yet, go to [github.com](https://github.com) and sign up for free — it only takes a few minutes. Once you have one, let your developer know your GitHub username so they can give you access.
 
-**If you get logged out or forget your password:**
-Go to nintron.com/admin and click **Forgot password**. It'll send a reset link to your email.
+**If you get logged out:**
+Just go back to nintron.com/admin and click the login button again. It'll reconnect through GitHub automatically.
 
 **Bookmark this link:** nintron.com/admin
 
@@ -136,7 +137,7 @@ If you're ever unsure about something, just don't click Publish yet — close th
 
 ## 9. Who to Call When Something Looks Wrong
 
-If something on your site looks broken or doesn't look right, don't panic — the site itself is very stable. 
+If something on your site looks broken or doesn't look right, don't panic — the site itself is very stable.
 
 Before reaching out, check:
 - Is it just your browser? Try opening the site in a different browser or on your phone
