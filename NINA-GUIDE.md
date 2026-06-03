@@ -24,21 +24,41 @@ Nobody can accidentally break anything from the outside. The only way to change 
 
 Your dashboard is where you manage everything — adding paintings, writing posts, updating your bio.
 
-**To log in:**
-1. Go to **[nintron.com/admin](https://nintron.com/admin)**
-2. Click the login button
-3. You'll be taken to GitHub to authorize — click **Authorize**
-4. You'll be brought straight into your dashboard
+To log in, you need a free **GitHub account**. GitHub is a website that stores your site's files — think of it like a filing cabinet. You don't need to understand it or use it for anything else. You just need an account so the system can verify who you are.
 
-That's it. No password to remember, no invite email. It uses your GitHub account to verify who you are.
+---
 
-**You will need a free GitHub account to log in.**
-If you don't have one yet, go to [github.com](https://github.com) and sign up for free — it only takes a few minutes. Once you have one, let your developer know your GitHub username so they can give you access.
+### Step 1 — Create a free GitHub account (first time only)
 
-**If you get logged out:**
-Just go back to nintron.com/admin and click the login button again. It'll reconnect through GitHub automatically.
+1. Open a web browser and go to **[github.com](https://github.com)**
+2. Click the **Sign up** button in the top right corner
+3. Enter your email address and click **Continue**
+4. Create a password and click **Continue**
+5. Choose a username — something simple like `ninartist` or your name — and click **Continue**
+6. Follow the remaining steps to verify your email and finish setup
+7. Once your account is created, **send your GitHub username to your developer** so they can give you access to your site
 
-**Bookmark this link:** nintron.com/admin
+You only do this once. After that, your GitHub account is your key to your dashboard forever.
+
+---
+
+### Step 2 — Log into your dashboard
+
+1. Open a web browser and go to **[nintron.com/admin](https://nintron.com/admin)**
+2. You'll see a page with a login button — click it
+3. You'll be taken to GitHub — if you're already signed into GitHub it'll happen automatically, if not it'll ask for your GitHub email and password
+4. Click **Authorize** when GitHub asks for permission
+5. You'll land straight inside your dashboard — you're in
+
+No separate password to remember for the dashboard. Your GitHub account is the key.
+
+---
+
+### If you get logged out
+
+Just go back to **nintron.com/admin** and click the login button again. It reconnects through GitHub automatically.
+
+**Bookmark this page:** nintron.com/admin
 
 ---
 
