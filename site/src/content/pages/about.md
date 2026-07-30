@@ -32,7 +32,7 @@ I believe healing happens when opposites are acknowledged rather than denied. Fo
 
 I aim to take viewers beyond the surface and into deeper emotional and psychological layers. Beauty, to me, is not perfection. Beauty is ripening through experience, self-awareness, resilience, and inner truth. We learn the most about ourselves through struggle, and when we are willing to understand our weaknesses, those weaknesses can become sources of power.
 
-Through my work, I share my own journey so others may feel seen within theirs. I want my art to remind people that they are capable of evolution, passion, depth, and self-reclamation. I want to leave people more fearless than before — more willing to love deeply, embrace complexity, confront their shadows, drop the mask that weighs and keeps them trapped, and transform their pain into something alive, meaningful, and beautiful.
+Through my work, I share my own journey so others may feel seen within theirs. I want my art to remind people that they are capable of evolution, passion, depth, and self-reclamation. I want to leave people more fearless than before — more willing to love deeply, embrace complexity, confront their shadows, drop the mask that weighs them down and keeps them trapped, and transform their pain into something alive, meaningful, and beautiful.
 
 - - -
 
