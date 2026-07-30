@@ -2,12 +2,12 @@
 title: About
 seo:
   title: About Nina
-  description: Artist and illustrator exploring the human condition through bold, mythic, and deeply personal work.
+  description: Artist and illustrator exploring the human condition through bold,
+    mythic, and deeply personal work.
   image:
-    src: '../../assets/images/about.jpg'
+    src: ../../assets/images/about.jpg
     alt: Nina
 ---
-
 ![Nina](../../assets/images/about.jpg)
 
 ## About Nina
@@ -20,7 +20,7 @@ I've been making art my whole life, but somewhere along the way it stopped being
 
 That's not just something I say — it's the current that runs through everything I paint.
 
----
+- - -
 
 ## Artist Statement
 
@@ -32,8 +32,8 @@ I believe healing happens when opposites are acknowledged rather than denied. Fo
 
 I aim to take viewers beyond the surface and into deeper emotional and psychological layers. Beauty, to me, is not perfection. Beauty is ripening through experience, self-awareness, resilience, and inner truth. We learn the most about ourselves through struggle, and when we are willing to understand our weaknesses, those weaknesses can become sources of power.
 
-Through my work, I share my own journey so others may feel seen within theirs. I want my art to remind people that they are capable of evolution, passion, depth, and self-reclamation. I want to leave people more fearless than before — more willing to love deeply, embrace complexity, confront their shadows, and transform their pain into something alive, meaningful, and beautiful.
+Through my work, I share my own journey so others may feel seen within theirs. I want my art to remind people that they are capable of evolution, passion, depth, and self-reclamation. I want to leave people more fearless than before — more willing to love deeply, embrace complexity, confront their shadows, drop the mask that weighs and keeps them trapped, and transform their pain into something alive, meaningful, and beautiful.
 
----
+- - -
 
 Follow my process on [Instagram](https://www.instagram.com/nintron) or reach out on [Facebook](https://www.facebook.com/nintron).
