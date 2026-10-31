@@ -1,5 +1,5 @@
 ---
-title: The Dream
+title: The Masks we Wear
 medium: Colored pencil on paper
 year: 2025
 publishDate: Jan 04 2025
@@ -10,5 +10,4 @@ seo:
     alt: A surreal masked figure with swirling cosmic hair looms over a child
       playing with a toy train
 ---
-
-![The Dream](../../assets/images/art/photo_2026-05-31_05-22-39.jpg)
+![What lies behind the mask? The most volerable parts of ourselves? Maybe our inner child? What's behind your mask?](../../assets/images/art/photo_2026-05-31_05-22-39.jpg)
